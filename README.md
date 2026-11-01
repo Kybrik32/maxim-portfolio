@@ -1,6 +1,10 @@
 # MAXIM — Freelance Web Developer
 
-An English portfolio for Maxim, an independent freelance web developer. It presents selected work, services, the working process, and direct contact options. Both featured projects are clearly labeled as portfolio concepts.
+A personal portfolio showcasing my work in web design and frontend development.
+
+I create modern, responsive websites for businesses, combining distinctive visual design, intuitive user experiences, and thoughtful interactions.
+
+This repository contains the source code for my portfolio website, featuring selected projects, case studies, services, and contact information.
 
 ## Stack
 
